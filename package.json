@@ -1,14 +1,9 @@
 
 {
-  "name": "ticket-bot",
+  "name": "codurableachhacks-bot",
   "version": "1.0.0",
-  "description": "Custom Codura x BleachHacks Ticket Bot",
   "main": "index.js",
-  "scripts": {
-    "start": "node index.js",
-    "deploy": "node deploy-commands.js"
-  },
   "dependencies": {
-    "discord.js": "^14.14.1"
+    "discord.js": "^14.0.0"
   }
 }
