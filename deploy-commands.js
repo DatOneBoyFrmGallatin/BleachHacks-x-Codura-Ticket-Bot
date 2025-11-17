@@ -33,3 +33,4 @@ const rest = new REST({ version: "10" }).setToken(TOKEN);
         console.error("❌ ERROR registering commands:", err);
     }
 })();
+
